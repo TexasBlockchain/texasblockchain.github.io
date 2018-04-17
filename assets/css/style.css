@@ -652,12 +652,6 @@ pre {
   width: 25%;
 }
 
-@media only screen and (max-width: 1000px) {
-    .fourth {
-
-    }
-}
-
 .btn-default {
     border-color: #e5e5e5;
 }
